@@ -1,1 +1,4 @@
-.space
+.space 
+Spacefile
+server.py 
+/templates
